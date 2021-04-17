@@ -6,7 +6,7 @@
 #
 # The standard settings and names are:
 # database name = home_values.db
-# table_name = results_thp
+# table_name = enviro
 #
 # Both the database and table need to be created manually.
 
